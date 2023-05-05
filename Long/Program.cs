@@ -6,16 +6,6 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-public struct Student
-{
-    public string Surname;
-    public int N;
-    public float Stat;
-
-
-}
-
-
 
 namespace Long
 {
